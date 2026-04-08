@@ -1,7 +1,7 @@
 if (document.querySelector(".typing")) {
     // Only init Typed.js if the target element exists.
     var typed = new Typed(".typing", {
-        strings: ["", "AI Software Engineer"],
+        strings: ["", "AI Engineer"],
         typeSpeed: 100,
         backSpeed: 100,
         backDelay: 1000,
